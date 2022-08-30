@@ -16,30 +16,30 @@
 ***
 The team was tasked to come up with a project that would address one of the UN Sustainable Development Goals. 
 
-|![UN SDG](https://khkhiu.github.io/assets/images/SP-EDS/UN_SDG.png)|
-|<em>Image of UN SDG</em>|
+![UN SDG](https://khkhiu.github.io/assets/images/SP-EDS/UN_SDG.png)
+<em>Image of UN SDG</em>
 
 Students were provided with the following items:
 
-|![SP Arduino](https://khkhiu.github.io/assets/images/SP-EDS/SP-Arduino.png)|
-|<em>Custom Arduino made in SP</em>|
+![SP Arduino](https://khkhiu.github.io/assets/images/SP-EDS/SP-Arduino.png)
+<em>Custom Arduino made in SP</em>
 
-|![Counter unit schematic](https://khkhiu.github.io/assets/images/SP-EDS/Counter-Scheme.png)|
-|![Counter unit actual](https://khkhiu.github.io/assets/images/SP-EDS/Counter-Actual.png)|
-|<em>Counter unit</em>|
+![Counter unit schematic](https://khkhiu.github.io/assets/images/SP-EDS/Counter-Scheme.png)
+![Counter unit actual](https://khkhiu.github.io/assets/images/SP-EDS/Counter-Actual.png)
+<em>Counter unit</em>
 
-|![Target sensor](https://khkhiu.github.io/assets/images/SP-EDS/Target_Sensor.png)|
-|<em>Target sensors</em>|
+![Target sensor](https://khkhiu.github.io/assets/images/SP-EDS/Target_Sensor.png)
+<em>Target sensors</em>
 
-|![Voltage regulator with relay](https://khkhiu.github.io/assets/images/SP-EDS/Volt_Reg.png)|
-|<em>Voltage regulator with relay</em>|
+![Voltage regulator with relay](https://khkhiu.github.io/assets/images/SP-EDS/Volt_Reg.png)
+<em>Voltage regulator with relay</em>
 
-|![MonoStable](https://khkhiu.github.io/assets/images/SP-EDS/MonoStable.png)|
-|<em>Pulse generator</em>|
+![MonoStable](https://khkhiu.github.io/assets/images/SP-EDS/MonoStable.png)
+<em>Pulse generator</em>
 
-|![Forward-Reverse scheme](https://khkhiu.github.io/assets/images/SP-EDS/FR-Scheme.png)|
-|![Forward-Reverse scheme](https://khkhiu.github.io/assets/images/SP-EDS/FR-Scheme-2.png)|
-|<em>Forward-Reverse circuit, students had to mill this themselves</em>|
+![Forward-Reverse scheme](https://khkhiu.github.io/assets/images/SP-EDS/FR-Scheme.png)
+![Forward-Reverse scheme](https://khkhiu.github.io/assets/images/SP-EDS/FR-Scheme-2.png)
+<em>Forward-Reverse circuit, students had to mill this themselves</em>
 
 ***
 
