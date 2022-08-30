@@ -1,4 +1,4 @@
-# Singapore_Polytechnic-Engineering_Design_and_Solution_Project
+# Singapore Polytechnic - Engineering Design and Solution Project
 
 ***
 
